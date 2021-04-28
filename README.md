@@ -14,7 +14,7 @@ $ go get github.com/hugolgst/rich-go
 
 First of all import rich-go
 ```golang
-import "github.com/hugolgst/rich-go/client"
+import "github.com/xphip/rich-go/client"
 ```
 
 then login by sending the first handshake
@@ -48,19 +48,3 @@ if err != nil {
 	panic(err)
 }
 ```
-
-More details in the [example](https://github.com/ananagame/rich-go/blob/master/example/main.go)
-
-## Contributing
-
-1. Fork it (https://github.com/hugolgst/rich-go/fork)
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
-
-## Contributors
-
-- [hugolgst](https://github.com/hugolgst) - creator, maintainer
-- [donovansolms](https://github.com/donovansolms) - contributor
-- [heroslender](https://github.com/heroslender) - contributor
