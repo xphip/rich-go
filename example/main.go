@@ -32,7 +32,7 @@ func main() {
 		Buttons: []*client.Button{
 			&client.Button{
 				Label: "GitHub",
-				Url:   "https://github.com/hugolgst/rich-go",
+				Url:   "https://github.com/xphip/rich-go",
 			},
 		},
 	})
